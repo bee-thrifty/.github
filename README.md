@@ -1,1 +1,7 @@
-# .github
+[![Chrome Web Store Version](https://img.shields.io/chrome-web-store/v/dgabhdofghcfbfpbpijiodednmjfkhpd.svg)](https://chrome.google.com/webstore/detail/thrifty/dgabhdofghcfbfpbpijiodednmjfkhpd)
+[![Chrome Web Store Rating](https://img.shields.io/chrome-web-store/rating/dgabhdofghcfbfpbpijiodednmjfkhpd.svg)](https://chrome.google.com/webstore/detail/thrifty/dgabhdofghcfbfpbpijiodednmjfkhpd)
+[![Chrome Web Store Users](https://img.shields.io/chrome-web-store/users/dgabhdofghcfbfpbpijiodednmjfkhpd.svg)](https://chrome.google.com/webstore/detail/thrifty/dgabhdofghcfbfpbpijiodednmjfkhpd)
+
+[![Edge Web Store Version](https://img.shields.io/badge/dynamic/json?label=edge%20add-on&prefix=v&query=%24.version&url=https%3A%2F%2Fmicrosoftedge.microsoft.com%2Faddons%2Fgetproductdetailsbycrxid%2Fnjabljpffgpldnkaodgbnpfdhphfiemd)](https://microsoftedge.microsoft.com/addons/detail/thrifty/njabljpffgpldnkaodgbnpfdhphfiemd)
+[![Edge Web Store Rating](https://img.shields.io/badge/dynamic/json?label=rating&suffix=/5&query=%24.averageRating&url=https%3A%2F%2Fmicrosoftedge.microsoft.com%2Faddons%2Fgetproductdetailsbycrxid%2Fnjabljpffgpldnkaodgbnpfdhphfiemd)](https://microsoftedge.microsoft.com/addons/detail/thrifty/njabljpffgpldnkaodgbnpfdhphfiemd)
+[![Edge Web Store Users](https://img.shields.io/badge/dynamic/json?label=users&query=%24.activeInstallCount&url=https%3A%2F%2Fmicrosoftedge.microsoft.com%2Faddons%2Fgetproductdetailsbycrxid%2Fnjabljpffgpldnkaodgbnpfdhphfiemd)](https://microsoftedge.microsoft.com/addons/detail/thrifty/njabljpffgpldnkaodgbnpfdhphfiemd)
